@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;}
+
+.header-section{
+    background-image: url('../images/donation7.jpg');
+    background-size: cover;
+    text-align: center;
+    
+}
+.header-content{
+    padding: 220px;
+}
+.title-text{
+    color: white;
+    font-size: 65px;
+}
+.title-description{
+    color: white;
+    font-size: 20px;
+    padding: 25px;
+}
+.btn-primary{
+    background-color: orange;
+    padding: 15px 20px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
