@@ -141,3 +141,30 @@ section */
 .food-descriptipon{
     text-align: left;
 }
+/* Section 3 */
+.see-the-fact1{
+    padding: 50px 50px;
+    margin-top: 70px;
+    display: flex;
+    gap: 49px;
+    align-items: center;
+}
+.text-about-that-pic{
+   width: 530px;
+   
+}
+.pic-text-title{
+    font-size: 45px;
+    
+    margin-bottom: 20px;
+}
+.pic-text-description{
+     margin-bottom: 15px;
+}
+.control-image{
+   height: 550px;
+   width: 570px;
+   border-radius: 9px;
+}
+
+/* Get update section */
