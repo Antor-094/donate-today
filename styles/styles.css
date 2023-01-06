@@ -1,25 +1,35 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: 'Open Sans', sans-serif;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 .header-section{
-    background-image: url('../images/donation7.jpg');
+    background-image: url('../images/donation13.jpg');
     background-size: cover;
     text-align: center;
+    width: 100%;
+    height: 730px;
+    box-sizing: border-box;
     
 }
 .header-content{
-    padding: 220px;
+    padding: 210px 280px;
+    /* text-align: center; */
+    
 }
 .title-text{
-    color: white;
+    color: #009270;
     font-size: 65px;
+    margin-bottom: 25px;
 }
 .title-description{
     color: white;
     font-size: 20px;
-    padding: 25px;
+    margin-bottom: 30px;
+    padding: 15px 20px;
+
+    
 }
 .btn-primary{
     background-color: orange;
