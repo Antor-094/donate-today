@@ -24,7 +24,7 @@
     margin-bottom: 25px;
 }
 .title-description{
-    color: white;
+    color: #009270;
     font-size: 20px;
     margin-bottom: 30px;
     padding: 15px 20px;
@@ -122,14 +122,14 @@ section */
     border-radius: 5px;
 }
 .bgcolor1{
-    background-color: #0092708d;
+    background-color: #FFF4D6;
 }
 .bgcolor2{
-    background-color: rgba(127, 255, 212, 0.56);
+    background-color: #EDF5F6;
 
 }
 .bgcolor3{
-    background-color: rgba(255, 228, 196, 0.566);
+    background-color: #FFEEEE;
 }
 .iconsize{
     font-size: 40px;
@@ -182,10 +182,11 @@ section */
    margin-bottom: 35px;
 }
 .update-form{
-   background-color: rgba(127, 176, 255, 0.532);
+   background-color: #FFF4D6;
    padding: 70px;
    width: 700px;
    margin: auto;
+   border-radius: 5px;
 }
 .btn1-primary{
      
@@ -198,4 +199,26 @@ section */
     padding: 10px 39px;
     background-color: rgba(255, 255, 255, 0.263);
     border-radius: 6px;
+}
+/* footer */
+
+footer{
+     
+    text-align: center;
+    margin: auto;
+    background-color: black;
+    height: 205px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.humbol-text{
+    font-family: 'Space Grotesk', sans-serif;
+    color: #FF5959;
+    padding: 30px;
+}
+.last-text{
+   color: white;
+   font-size: 10px;
+  
+   
 }
