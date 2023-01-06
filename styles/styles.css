@@ -168,3 +168,34 @@ section */
 }
 
 /* Get update section */
+.get-update-section{
+    margin-top: 50px;
+     text-align: center;
+}
+.update-text{
+   font-size: 45px;
+   margin-bottom: 40px;
+}
+.update-description{
+   width: 500px;
+   margin: auto;
+   margin-bottom: 35px;
+}
+.update-form{
+   background-color: rgba(127, 176, 255, 0.532);
+   padding: 70px;
+   width: 700px;
+   margin: auto;
+}
+.btn1-primary{
+     
+    padding: 10px 25px;
+    background-color: rgba(255, 68, 0, 0.64);
+    border-radius: 6px;
+
+}
+.update-form input{
+    padding: 10px 39px;
+    background-color: rgba(255, 255, 255, 0.263);
+    border-radius: 6px;
+}
